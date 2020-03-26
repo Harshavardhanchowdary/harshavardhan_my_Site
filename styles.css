@@ -365,19 +365,23 @@ li a:hover {
 
 
 .c-one {
-  left: 5rem;
+  position: absolute;
+  left: 2rem;
   height: 55px;
   width: 55px;
 }
 
 .c-two {
-  left: 70rem;
+ position: absolute;
+ right: 5rem;
+
   height: 75px;
   width: 75px;
 }
 
 .c-one-two {
-  left: 67rem;
+  position: absolute;
+  right: 5rem;
   height: 15px;
   width: 15px;
 
@@ -385,6 +389,7 @@ li a:hover {
 }
 
 .c-three {
+  position: absolute;
 
   left: 10.5rem;
   height: 10px;

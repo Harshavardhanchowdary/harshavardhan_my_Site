@@ -134,13 +134,12 @@ h2 {
 }
 
 .headder {
-  position: fixed;
+  position: relative;
 
   width: 100%;
   height: 75px;
   background: #100e17;
-  z-index: 1;
-  opacity: 0.9;
+  
 
 
 }
